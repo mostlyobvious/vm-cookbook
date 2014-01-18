@@ -1,3 +1,3 @@
 # VM cookbook
 
-Supported systems: Ubuntu LTS, Debian Wheezy.
+Supported systems: Ubuntu LTS, Debian Wheezy. It is also assumed that you use LVM.
