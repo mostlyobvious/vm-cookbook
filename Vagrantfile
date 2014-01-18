@@ -22,7 +22,8 @@ Vagrant.configure("2") do |config|
     }
 
     chef.run_list = [
-        "recipe[vm::default]"
+      "recipe[vm::host_kvm]",
+      "recipe[vm::host_lxc]"
     ]
   end
 end
