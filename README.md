@@ -1,13 +1,3 @@
-# vm cookbook
+# VM cookbook
 
-# Requirements
-
-# Usage
-
-# Attributes
-
-# Recipes
-
-# Author
-
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Supported systems: Ubuntu LTS, Debian Wheezy.
